@@ -1,6 +1,6 @@
 ### Welcome on my Github profile ! 👋😁
 
 ##### ⚒️ Working on my Portfolio and refactor my projects.
-##### 🏫 Still learning at [Becode](https://becode.org/)
-##### 🔍 I’m looking for an internship starting the 10, January 2022 !
-##### 🎮 Loving video games.
+##### 🏫 Still learning & challenging on new projects.
+##### 💻 Working as a JavaScript Coach at [Sirius School](https://siriushub.be/)
+##### 🎮 Loving video games, Final Fantasy XIV big fan.
